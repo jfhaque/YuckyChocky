@@ -1,0 +1,54 @@
+Run using a shell window (terminal in Linux):
+
+Open console (terminal in linux and macOS)
+
+Navigate to main folder
+
+
+Compile the following code: 
+javac *.java
+
+
+Run the Code:
+java yuckyChocky
+
+
+A new window will appear where the game can be played.
+
+
+
+
+
+
+
+HOW TO USE:
+
+When the game starts, a window will appear.
+
+The window will prompt you to click one of the buttons.
+Each button starts the game with different sized Chocolate bars.
+
+Once the game starts, you get to play your turn first. 
+
+Select a chocolate square from one of the four outer regions: 
+1) First row (excluding the soap). 
+	Chocolate breaking: bottom and right
+2) Last row
+	Chocolate breaking: top and right
+3) First column (excluding the soap)
+	Chocolate breaking: right and bottom
+4) Last column
+	Chocolate breaking: left and botton
+
+
+Therefore you can only break the chocolate from the outer areas of the bar.
+
+Once a square is selected, the chocolate is broken across.
+
+Wait one sec as the computer decided which chocolate bar to break.
+
+Once the computer has decided, the bar will be broken and it will be stated at the bottom as to which bar the computer had selected.
+
+Think tactically and try to be the player who is not left with the soap at the end. 
+
+If you manage to eat all chocolates and keep only the soap for the computer, YOU WIN!!
